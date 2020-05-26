@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ARGame CatchingKittens</string>
+    <string name="title">Catching naughty Cats</string>
+    <string name="start_game">Start AR Game</string>
+    <string name="cat_chatlog">Cat: It ’s too boring to stay at home, I ’m going to slip out to play</string>
+    <string name="host_chatlog">Host: Come back, Covid-19 is not over yet</string>
+    <string name="description">Your kittens are running away, catch them back quickly!</string>
+    <string name="score_tag">Caught(Total 10):</string>
+    <string name="catchtarget">CatchTarget</string>
+    <string name="timer_tag">2:00</string>
+    <string name="button_name">Capture</string>
+</resources>
